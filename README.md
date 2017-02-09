@@ -1,3 +1,3 @@
 # ruby-projects
 
-ruby-projects is a repository for my java tutorial and problem solving exercises.
+ruby-projects is a repository for my ruby tutorial and problem solving exercises.
